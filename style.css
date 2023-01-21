@@ -1,15 +1,14 @@
 .container{
-    /* border: 2px solid black; */
+   
     width: 92%;
-    /* height: 100vh; */
+
     display: grid;
     gap: 10px;
     grid-template-columns: 48% 23% 23%;
     grid-template-rows: 200px 200px 200px;
     color: white;
     padding: 20px;
-    /* overflow-y: hidden; */
-    /* margin: auto; */
+  
 }
 
 .heading{
